@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "darrell-clayborn-what-d-i-do",
+    "num": "01",
+    "title": "What'd I Do?",
+    "artist": "Darrell Clayborn",
+    "album": "Heartbroke Fool",
+    "trackNumber": 99,
+    "albumOrder": 99,
+    "albumCover": "images/covers/darrell-clayborn-heartbroke-fool-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/darrell-clayborn-what-d-i-do-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/94bvbl6z6wlm4nbuhj8e4/darrell-clayborn-whatd-i-do-WAV-mastered.mp3?rlkey=rewk4w7hw6xdw8qnls7rbuvnk&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/94bvbl6z6wlm4nbuhj8e4/darrell-clayborn-whatd-i-do-WAV-mastered.mp3?rlkey=rewk4w7hw6xdw8qnls7rbuvnk&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
+  }
+]
